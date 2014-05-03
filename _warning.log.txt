@@ -1,0 +1,19 @@
+[C:\Users\andre_000\Desktop\Space Invaders\_warning.log.txt]
+
+[WARN ] main.angelscript, line 55: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 82: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 86: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 95: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 121: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 125: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 134: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 159: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 163: Signed/Unsigned mismatch
