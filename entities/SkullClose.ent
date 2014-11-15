@@ -3,6 +3,12 @@
     <Entity shape="0" applyLight="0" castShadow="0" type="0" static="0" blendMode="0">
         <Sprite>SkullClose.png</Sprite>
         <Particles />
-        <CustomData />
+        <CustomData>
+            <Variable>
+                <Type>string</Type>
+                <Name>state</Name>
+                <Value>Close</Value>
+            </Variable>
+        </CustomData>
     </Entity>
 </Ethanon>

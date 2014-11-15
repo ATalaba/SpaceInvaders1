@@ -3,6 +3,12 @@
     <Entity shape="0" applyLight="0" castShadow="0" type="0" static="0" blendMode="0">
         <Sprite>EnemyBullet.png</Sprite>
         <Particles />
-        <CustomData />
+        <CustomData>
+            <Variable>
+                <Type>int</Type>
+                <Name>speed</Name>
+                <Value>1</Value>
+            </Variable>
+        </CustomData>
     </Entity>
 </Ethanon>

@@ -3,6 +3,12 @@
     <Entity shape="0" applyLight="0" castShadow="0" type="0" static="0" blendMode="0">
         <Sprite>Barrier.png</Sprite>
         <Particles />
-        <CustomData />
+        <CustomData>
+            <Variable>
+                <Type>int</Type>
+                <Name>lives</Name>
+                <Value>6</Value>
+            </Variable>
+        </CustomData>
     </Entity>
 </Ethanon>

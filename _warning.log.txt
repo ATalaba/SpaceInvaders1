@@ -1,19 +1,33 @@
-[C:\Users\andre_000\Desktop\Space Invaders\_warning.log.txt]
+[C:\Users\andre_000\Documents\GitHub\SpaceInvaders1\_warning.log.txt]
+
+[WARN ] main.angelscript, line 49: Signed/Unsigned mismatch
 
 [WARN ] main.angelscript, line 55: Signed/Unsigned mismatch
 
-[WARN ] main.angelscript, line 82: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 69: Signed/Unsigned mismatch
 
-[WARN ] main.angelscript, line 86: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 119: Signed/Unsigned mismatch
 
-[WARN ] main.angelscript, line 95: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 120: The operand is implicitly converted to handle in order to compare them
 
-[WARN ] main.angelscript, line 121: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 129: Signed/Unsigned mismatch
 
-[WARN ] main.angelscript, line 125: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 130: The operand is implicitly converted to handle in order to compare them
 
-[WARN ] main.angelscript, line 134: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 160: Signed/Unsigned mismatch
 
-[WARN ] main.angelscript, line 159: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 161: The operand is implicitly converted to handle in order to compare them
 
-[WARN ] main.angelscript, line 163: Signed/Unsigned mismatch
+[WARN ] main.angelscript, line 185: The operand is implicitly converted to handle in order to compare them
+
+[WARN ] main.angelscript, line 241: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 247: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 261: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 265: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 275: Signed/Unsigned mismatch
+
+[WARN ] main.angelscript, line 279: Signed/Unsigned mismatch
